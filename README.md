@@ -1,1 +1,8 @@
-# Thorne-And-Ruiz-2022-EDA-Project
+# Thorne And Ruiz 2022 EDA Project
+
+Gabriella Ruiz, Chani Thorne
+Department, Minnesota State University Moorhead, 1104 7th Avenue South, Moorhead, MN  56563
+
+## How does species richness vary in native restored prairies when NPK fertilizer treatments are applied
+
+The Minnesota State University of Moorhead Regional Science Center has two established native restored prairie sites: North Pond, which is enrolled in the Nutrient Network Global Collaborative and has yearly additives of NPK fertilizer, and Houston, which is reserved for independent student research projects. Students at MSUM have collected 5 years of percent cover data from North Pond and 3 years from Houston. We will be using these data sets to ask “How does species richness vary in native restored prairies when NPK fertilizer treatments are applied?” We will be using exploratory data analysis to pursue this question by comparing percent cover and taxa data from both sites to look at the variation of species richness across 60 plots. Previous studies on native and restored prairies have shown that anthropogenic influences on the environment fuel the growth of invasive species (MacDougall et al. 2014). NPK fertilizers, specifically, have also shown to cause an increase in biomass and a decrease in plant species richness. We expect to find that plots with applied NPK fertilizer will have a lower overall species richness than plots with no nutrients applied. A greater understanding of these processes and consequent environmental impacts may provide a useful background of knowledge for land management, restoration, and conservational efforts. 
